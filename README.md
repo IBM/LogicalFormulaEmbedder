@@ -1,5 +1,7 @@
 # LogicalFormulaEmbedder
-A collection of graph-based logical formula embedding methods
+Recent advances in the integration of deep learning with automated theorem proving have centered around the representation of logical formulae as inputs to deep learning systems. In particular, there has been a growing interest in adapting structure-aware neural methods to work with the underlying graph representations of logical expressions. While more effective than character and token-level approaches, graph-based methods have often made representational trade-offs that limited their ability to capture key structural properties of their inputs. In this work we propose a novel approach for embedding logical formulae that is designed to overcome the representational limitations of prior approaches. Our architecture works for logics of different expressivity; e.g., first-order and higher-order logic. We evaluate our approach on two standard datasets and show that the proposed architecture achieves state-of-the-art performance on both premise selection and proof step classification. 
+
+Paper: https://arxiv.org/abs/1911.06904
 
 ## Experiment Setup
 
