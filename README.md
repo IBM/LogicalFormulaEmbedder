@@ -52,3 +52,27 @@ where \<model_filename\> is the name of the model in ./models you want to test, 
       python3 test_model.py --dataset holstep --model holstep_epoch_3_MPNN_SimpleMaxPool
 
 test results are stored in ./results
+
+   
+## Publications
+* If you use this work in your research, please cite the following paper:
+
+```
+@misc{crouse2020improving,
+      title={Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling}, 
+      author={Maxwell Crouse and Ibrahim Abdelaziz and Cristina Cornelio and Veronika Thost and Lingfei Wu and Kenneth Forbus and Achille Fokoue},
+      year={2020},
+      eprint={1911.06904},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+} 
+```
+
+  
+## Questions
+For any question, please contact us via email: Maxwell.Crouse@ibm.com and ibrahim.abdelaziz1@ibm.com
+
+  
+  
+
+
